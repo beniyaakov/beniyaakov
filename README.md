@@ -1,6 +1,6 @@
 
-<img align="right" alt="Coding" width="400"  src="https://shorturl.at/oXSjT">
 <h1 align="center">Hi 👋, I'm Beni Yaakov</h1>
+<img align="right" alt="Coding" width="400"  src="https://shorturl.at/oXSjT">
 <h3 align="center">A passionate Full-Stack developer form israel</h3>
 
 
